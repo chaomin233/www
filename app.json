@@ -1,0 +1,19 @@
+{
+  "appKey": "T4S9IekUD4iPovzFzPyMig7Eb4xX363x",
+  "appSecret": "Bnpf0Vam3ZIZ2iB49tAuF8k2E4QDj3gE",
+  "projectId": "e379232f0a3248d52bd685358df29c63",
+  "id": 249,
+  "name": "www",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "www",
+  "git": {
+    "url": "https://github.com/chaomin233/www.git",
+    "isPrivate": 0,
+    "username": "chaomin233",
+    "password": "abcd153010508"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
